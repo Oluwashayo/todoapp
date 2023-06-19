@@ -1,6 +1,6 @@
 # todoapp
 
-A new Flutter project.
+A todo flutter project with Getx statemanagement.
 
 ## Getting Started
 
